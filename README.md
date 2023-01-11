@@ -35,3 +35,10 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Deployed Link and Screenshots
 https://juliankm.github.io/Challenge03-redo-/
+
+After I hit generate password
+<img width="1440" alt="Screenshot 2023-01-11 at 10 36 31 AM" src="https://user-images.githubusercontent.com/120419841/211889932-9588d1e6-49b5-46e4-a7f1-e899a79d1326.png">
+
+Generated passowrd
+<img width="1440" alt="Screenshot 2023-01-11 at 10 38 18 AM" src="https://user-images.githubusercontent.com/120419841/211890292-3002b26f-6de4-41bd-ab8f-f381166990a3.png">
+
